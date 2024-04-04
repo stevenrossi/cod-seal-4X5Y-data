@@ -5,7 +5,7 @@ Rossi, S.P., Wang, Y., den Heyer, C.E., Benoît, H.P. 2024. Evaluating the poten
 
 Preprint: https://doi.org/10.48550/arXiv.2308.08662
 
-Repository DOI: https://zenodo.org/records/10896095
+Repository DOI: https://doi.org/10.5281/zenodo.10896094
 
 # Atlantic Cod data
 
