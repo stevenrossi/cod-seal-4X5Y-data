@@ -1,6 +1,12 @@
 # cod-seal-4X5Y-data
 Data for 4X5Y Atlantic Cod / Grey Seal analysis
 
+Rossi, S.P., Wang, Y., den Heyer, C.E., Benoît, H.P. 2024. Evaluating the potential impacts of grey seal predation and bycatch on cod productivity on the Southern Scotian Shelf and in the Bay of Fundy. ICES Journal of Marine Science. https://doi.org/10.1093/icesjms/fsae053.
+
+Preprint: https://doi.org/10.48550/arXiv.2308.08662
+
+Repository DOI: https://zenodo.org/records/10896095
+
 # Atlantic Cod data
 
 `fisheryLandingsAndDiscards.csv` - Commercial fishery landings and discards (mt; 1960-2021)
